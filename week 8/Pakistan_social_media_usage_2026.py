@@ -104,17 +104,3 @@ plt.ylabel("Predicted Exam Scores")
 
 plt.show()
 
-#----sample test----
-sample = [[
-    18,
-    1,
-    2,
-    4.5,
-    7,
-    1200,
-    2.5,
-    6
-]]
-
-prediction = model.predict(sample)
-print(prediction)
