@@ -3,18 +3,20 @@ from bs4 import BeautifulSoup
 import csv
 
 url='https://www.amazon.com/gp/browse.html?node=6563140011&ref_=nav_em_amazon_smart_home_0_2_8_2'
-
-r= requests.get(url)
+headers = {
+    "User-Agent": "Mozilla/5.0"
+}
+r= requests.get(url,headers=headers)
 soup=BeautifulSoup(r.content,'html5lib')
 productlist=[]
-products=soup.find_all('li',attrs={'class':"a-carousel-card "})
+products=soup.find_all('li',attrs={'class':"a-carousel-card ucw-widget-carousel-element"})
 
 for item in products:
     product={}
-    title=soup.find('div',class_='ucw-widget-product-card-title').text
-    rating=soup.find('div',class_='ucw-widget-product-card-review').text
-    price=soup.find('div',class_='ucw-widget-product-card-price').text
-    shiping=soup.find('div',class_='a-color-secondary a-size-base').text
+    title=item.find('div',class_='ucw-widget-product-card-title').text
+    rating=item.find('div',class_='ucw-widget-product-card-review').text
+    price=item.find('div',class_='ucw-widget-product-card-price').text
+    shiping=item.find('div',class_='ucw-widget-product-card-delivery').text
 
 
     product['title']=title

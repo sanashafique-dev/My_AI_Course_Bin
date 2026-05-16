@@ -10,7 +10,7 @@ print("datatypes",df_index.dtypes)
 
 print('df.info',df_index.info())
 
-print('describes shows all the  statistics functions\n',df_index.describe())  # summary of all stistics functions
+print('describes shows all the  statistics functions\n',df_index.describe())  # summary of all statistics functions
 
 print('countingthe rows and column in dataframe',df_index.shape)  # no of rows and column
 
