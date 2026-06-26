@@ -212,8 +212,9 @@ Linear Regression was used as the baseline model for predicting company revenue.
 
 ### Evaluation
 
-- Mean Absolute Error (MAE)
-- R² Score
+- Mean Absolute Error (MAE): 190.6400100206245
+- R2 Score: 0.9840718471926843
+
 
 ---
 
@@ -223,8 +224,9 @@ Random Forest Regressor was used to capture more complex relationships between v
 
 ### Evaluation
 
-- Mean Absolute Error (MAE)
-- R² Score
+- Mean Absolute Error (MAE): 370.4322222222222
+- R2 Score: 0.8578799019294758
+
 
 ---
 
@@ -290,9 +292,7 @@ Final Assement/
 
 # 👨‍💻 Author
 
-**Your Name**
-
-BS Artificial Intelligence
+**SANA SHAFIQUE**
 
 Final Assessment Project
 
