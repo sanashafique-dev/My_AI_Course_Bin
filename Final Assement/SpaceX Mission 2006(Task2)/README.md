@@ -383,7 +383,9 @@ Random Forest, Support Vector Machine, and KNN achieved the highest classificati
 
 # ⭐ Thank You ⭐
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thank+You+For+Visiting!;If+You+Like+This+Project+Give+It+A+Star+⭐;Happy+Coding+🚀">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thank+You+For+Visiting!;If+You+Like+This+Project+Give+It+A+Star+⭐;Happy+Coding+🚀" />
+</p>
 
 ### 💙 Made with Python & Machine Learning
 
