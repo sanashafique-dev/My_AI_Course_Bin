@@ -214,6 +214,20 @@ Combines Boxplot and KDE for payload mass.
 Shows correlations among numerical features.
 
 ---
+### Model Accuracy Comparison
+
+<img src="images/model_accuracy_comparison.png" width="800">
+
+**Insight:** Random Forest, KNN, and SVM achieved the highest accuracy on the dataset.
+
+---
+
+### Feature Importance
+
+<img src="images/feature_importance.png" width="800">
+
+**Insight:** This graph shows which features contributed the most to predicting mission success.
+
 
 # ⚙ Feature Engineering
 
