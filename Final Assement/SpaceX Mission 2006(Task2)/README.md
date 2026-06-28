@@ -136,8 +136,9 @@ Best Model Selection
 
 ## 1️⃣ Mission Outcome Distribution
 
-![](Final%20Assement/SpaceX%20Mission%202006(Task2)/images/mission_outcome_distribution.png)
+<img src="images/mission_outcome_distribution.png" width="800">
 
+---
 Shows the number of successful and failed SpaceX missions.
 
 ---
