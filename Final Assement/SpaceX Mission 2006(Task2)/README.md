@@ -136,23 +136,23 @@ Best Model Selection
 
 ## 1️⃣ Mission Outcome Distribution
 
-![](Final%20Assement/SpaceX%20Mission%202006(Task2)/images/mission_outcome_distribution.png)
+<img src="images/mission_outcome_distribution.png" width="800">
 
+---
 Shows the number of successful and failed SpaceX missions.
 
 ---
 
 ## 2️⃣ Launches Per Year
 
-![](Final%20Assement/SpaceX%20Mission%202006(Task2)/images/launches_per_year.png)
-
+<img src="images/launches_per_year.png" width="800">
 Illustrates the number of launches performed each year.
 
 ---
 
 ## 3️⃣ Payload Mass vs Launch Year
 
-![](Final%20Assement/SpaceX%20Mission%202006(Task2)/images/payload_mass_vs_launch_year.png)
+<img src="images/payload_mass_vs_launch_year.png" width="800">
 
 Shows how payload mass changed over time.
 
@@ -160,7 +160,7 @@ Shows how payload mass changed over time.
 
 ## 4️⃣ Vehicle Distribution
 
-![](Final%20Assement/SpaceX%20Mission%202006(Task2)/images/vehicle_distribution.png)
+<img src="images/vehicle_distribution.png" width="800">
 
 Displays the frequency of different Falcon vehicle variants.
 
@@ -168,7 +168,8 @@ Displays the frequency of different Falcon vehicle variants.
 
 ## 5️⃣ Payload Type Distribution
 
-![](Final%20Assement/SpaceX%20Mission%202006(Task2)/images/payload_type_distribution.png)
+<img src="images/payload_type_distribution.png" width="800">
+
 
 Represents different payload categories.
 
@@ -176,7 +177,7 @@ Represents different payload categories.
 
 ## 6️⃣ Payload Mass by Mission Outcome
 
-![](Final%20Assement/SpaceX%20Mission%202006(Task2)/images/payload_mass_by_outcome.png)
+<img src="images/payload_mass_by_outcome.png" width="800">
 
 Compares payload mass for successful and failed missions.
 
@@ -184,7 +185,7 @@ Compares payload mass for successful and failed missions.
 
 ## 7️⃣ KDE Plot
 
-![](Final%20Assement/SpaceX%20Mission%202006(Task2)/images/kde_plot.png)
+<img src="images/kde_plot.png" width="800">
 
 Shows the probability density distribution of payload mass.
 
@@ -192,7 +193,7 @@ Shows the probability density distribution of payload mass.
 
 ## 8️⃣ Swarm Plot
 
-![](Final%20Assement/SpaceX%20Mission%202006(Task2)/images/swarm_plot.png)
+<img src="images/swarm_plot.png" width="800">
 
 Displays every mission individually.
 
@@ -200,19 +201,33 @@ Displays every mission individually.
 
 ## 9️⃣ Violin Plot
 
-![](Final%20Assement/SpaceX%20Mission%202006(Task2)/images/violin_plot.png)
-
+<img src="images/violin_plot.png" width="800">
 Combines Boxplot and KDE for payload mass.
 
 ---
 
 ## 🔟 Correlation Heatmap
 
-![](Final%20Assement/SpaceX%20Mission%202006(Task2)/images/correlation_heatmap.png)
+<img src="images/correlation_heatmap.png" width="800">
 
+---
 Shows correlations among numerical features.
 
 ---
+### Model Accuracy Comparison
+
+<img src="images/model_accuracy_comparison.png" width="800">
+
+**Insight:** Random Forest, KNN, and SVM achieved the highest accuracy on the dataset.
+
+---
+
+### Feature Importance
+
+<img src="images/feature_importance.png" width="800">
+
+**Insight:** This graph shows which features contributed the most to predicting mission success.
+
 
 # ⚙ Feature Engineering
 
@@ -366,10 +381,11 @@ Random Forest, Support Vector Machine, and KNN achieved the highest classificati
 
 <div align="center">
 
-# ⭐ Thank You ⭐
+<h3 align="center">⭐ Thank You for Visiting ⭐</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thank+You+For+Visiting!;If+You+Like+This+Project+Give+It+A+Star+⭐;Happy+Coding+🚀">
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=If+You+Liked+This+Project;Please+Give+It+A+Star;Happy+Coding!" />
+</p>
 ### 💙 Made with Python & Machine Learning
 
 </div>
