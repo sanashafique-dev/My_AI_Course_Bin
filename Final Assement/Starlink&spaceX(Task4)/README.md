@@ -207,30 +207,35 @@ Since all three models produced identical evaluation scores, Python's `max()` fu
 
 ## Training Accuracy
 
-![](images/RNN_Training.png)
-
+<p align="center">
+  <img src="images/Training_Accuracy.png" width="750">
+</p>
 ---
 
 ## Confusion Matrix
 
 ### RNN
 
-![](images/RNN_CM.png)
+<p align="center">
+  <img src="images/RNN_Confusion_Matrix.png" width="650">
+</p>
 
 ### LSTM
-
-![](images/LSTM_CM.png)
-
+<p align="center">
+  <img src="images/LSTM_Confusion_Matrix.png" width="650">
+</p>
 ### GRU
-
-![](images/GRU_CM.png)
+<p align="center">
+  <img src="images/GRU_Confusion_Matrix.png" width="650">
+</p>
 
 ---
 
 ## Model Comparison
 
-![](images/Model_Comparison.png)
-
+<p align="center">
+  <img src="images/Model_Comparison.png" width="700">
+</p>
 ---
 
 # 📁 Project Structure
