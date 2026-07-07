@@ -207,7 +207,13 @@ Since all three models produced identical evaluation scores, Python's `max()` fu
 
 ## Training Accuracy
 
-![](images/RNN_Training.png)
+<p align="center">
+  <img src="images/Training_vs_Validation_Accuracy.png" alt="Training vs Validation Accuracy" width="800">
+</p>
+
+The graph shows that the training accuracy increased significantly during training, while the validation accuracy remained around **52.5%**. This indicates that the models learned the training data well but did not generalize effectively to unseen data, suggesting **overfitting**.
+
+---
 
 ---
 
@@ -215,23 +221,27 @@ Since all three models produced identical evaluation scores, Python's `max()` fu
 
 ### RNN
 
-![](images/RNN_CM.png)
+<p align="center">
+  <img src="images/RNN_Confusion_Matrix.png" width="650">
+</p>
 
 ### LSTM
-
-![](images/LSTM_CM.png)
-
+<p align="center">
+  <img src="images/LSTM_Confusion_Matrix.png" width="650">
+</p>
 ### GRU
-
-![](images/GRU_CM.png)
+<p align="center">
+  <img src="images/GRU_Confusion_Matrix.png" width="650">
+</p>
 
 ---
 
 ## Model Comparison
+<p align="center">
+  <img src="images/Model_Accuracy_Comparison.png" alt="Model Accuracy Comparison" width="750">
+</p>
 
-![](images/Model_Comparison.png)
-
----
+This comparison chart shows that **RNN, LSTM, and GRU achieved the same test accuracy (52.5%)**. Since all models produced identical results, no model significantly outperformed the others. Python selected **RNN** as the best model because it was the first model with the highest accuracy in the comparison dictionary.
 
 # 📁 Project Structure
 
