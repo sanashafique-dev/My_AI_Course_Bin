@@ -304,7 +304,28 @@ My_AI_Course_Bin
 ✅ Real-World Project Development
 
 ---
+## 📈 Skills Progress
 
+| Skill | Level |
+|-------|--------|
+| Python | ⭐⭐⭐⭐⭐ |
+| Pandas | ⭐⭐⭐⭐⭐ |
+| NumPy | ⭐⭐⭐⭐ |
+| Data Visualization | ⭐⭐⭐⭐ |
+| Machine Learning | ⭐⭐⭐⭐ |
+| Deep Learning | ⭐⭐⭐ |
+| Web Scraping | ⭐⭐⭐⭐ |
+| Generative AI | ⭐⭐⭐ |
+
+## 📊 Repository Statistics
+
+- 📁 5+ Course Modules
+- 📂 50+ Python Programs
+- 🤖 10+ Machine Learning Projects
+- 🌐 8+ Web Scraping Projects
+- 📈 Multiple Data Visualization Projects
+- 🚀 4 Final Assessment Projects
+- 📚 Real World Datasets Used
 # 👩‍💻 Author
 
 ## Sana Shafique
