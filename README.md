@@ -167,7 +167,16 @@ My_AI_Course_Bin
 │
 └── README.md
 ```
-
+```mermaid
+timeline
+    title My AI Learning Journey
+    Week 1 : Python Fundamentals
+    Week 4 : Data Analysis with Pandas
+    Week 6 : Data Visualization
+    Week 6 : Web Scraping
+    Week 8 : Machine Learning
+    Final : SpaceX Analytics Projects
+```
 ---
 
 # 🐍 Python Fundamentals
