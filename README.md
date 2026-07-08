@@ -280,6 +280,11 @@ My_AI_Course_Bin
 🌍 Starlink & SpaceX Growth Analysis
 
 ---
+Category	Count
+Data Analysis	4
+Web Scraping	4
+Machine Learning	10
+Final Assessment	4
 
 # 🏆 Skills Acquired
 
