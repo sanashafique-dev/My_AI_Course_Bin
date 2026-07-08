@@ -371,6 +371,11 @@ pie title My AI Course Bin - Project Distribution
 🚀 Building intelligent systems and continuously learning new technologies.
 
 ---
+## 🙏 Acknowledgements
+
+Special thanks to **🌟 Sir Shazad Sarwar 🌟** for his guidance, mentorship, and inspiration throughout this journey.
+Your support made learning Artificial Intelligence an exciting and meaningful experience. 🚀🤖
+
 
 <div align="center">
 
