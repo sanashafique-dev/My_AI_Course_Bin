@@ -279,12 +279,17 @@ My_AI_Course_Bin
 
 🌍 Starlink & SpaceX Growth Analysis
 
----
-Category	Count
-Data Analysis	4
-Web Scraping	4
-Machine Learning	10
-Final Assessment	4
+## 📊 Repository Overview
+
+```mermaid
+pie title My AI Course Bin - Project Distribution
+    "Python Fundamentals" : 20
+    "Data Analysis" : 10
+    "Data Visualization" : 4
+    "Web Scraping" : 8
+    "Machine Learning" : 10
+    "Final Projects" : 4
+```
 
 # 🏆 Skills Acquired
 
