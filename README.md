@@ -52,7 +52,18 @@ This repository was created to:
 ✅ Build a strong AI portfolio on GitHub.
 
 ---
-
+```mermaid
+mindmap
+  root((My AI Course Bin))
+    Python
+    Data Science
+    Visualization
+    Web Scraping
+    Machine Learning
+    Deep Learning
+    Generative AI
+    Final Projects
+```
 # 🛠️ Technologies & Tools
 
 ### Programming
